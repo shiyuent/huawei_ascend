@@ -1,0 +1,7 @@
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/execute_sinh_op.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/edit_cache.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/rebuild_cache.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/list_install_components.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/install.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/install/local.dir
+/root/Documents/exam_ascend/SinhCustom/AclNNInvocation/build/CMakeFiles/install/strip.dir
